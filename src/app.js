@@ -88,5 +88,5 @@ app.get('*', (req, res) => {
 })
 
 app.listen(3000, () => {
-    console.log('The server is up and running.')
+    console.log('The server is up and running...')
 })
